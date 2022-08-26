@@ -1,3 +1,4 @@
+![Boat](https://media.discordapp.net/attachments/1000985661395976213/1011131244689506394/T15405.jpg?width=300&height=400)
 
 ###  Boat 🇹🇭
 * ชื่อ 🍻 : ติณณภพ เทียนบาง
@@ -17,7 +18,7 @@
 * Contact 📫
   * Facebook : [ติณณภพ เทียนบาง](https://www.facebook.com/profile.php?id=100025362337428)
   * Instagram : [tinnapoptienbang](https://www.instagram.com/tinnapoptienbang/?hl=en)
-=======
+
 ### POY
 <img src="https://cdn.discordapp.com/attachments/890596254093033542/1011242432756715622/unknown.png" width="35%" />
 
