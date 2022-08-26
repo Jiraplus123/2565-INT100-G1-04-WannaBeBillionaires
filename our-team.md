@@ -1,5 +1,24 @@
 ![Boat](https://media.discordapp.net/attachments/1000985661395976213/1011131244689506394/T15405.jpg?width=300&height=400)
 
+
+<img src="https://cdn.discordapp.com/attachments/970310391328571443/1011303034191622265/IMG_0252.jpg" width=40% height=40% />
+
+### First
+* ชื่อ 🌈 : First
+* วันเกิด 🎂 : 24/12/2003
+* โรงเรียน 🏫 : อัสสัมชัญ
+* กิจกรรมที่ชอบ 🍿: ออกเเบบ ฟังเพลง 
+* จุดเด่น 👍 : เขียนโค้ดเร็ว
+* จุดด้อย 👎 : โค้ดรันไม่ได้
+* สายที่สนใจจะเรียน 🦖 : FrontEnd Backend
+* สไตล์การทำงาน 📥 : ทำตอนที่อยากทำ/ใกล้เดดไลน์ ไล่จากง่ายไปยากสุด
+* อาชีพในอนาคต 🔮 : UI/UX designer
+* ความฝัน 💭 : ทำงาน IT ต่างประเทศ
+* เพลงที่ชอบ 🎧 : [OUTTA-MY-MIND](https://music.youtube.com/watch?v=j7CRINnxHAc&list=RDAMPLPLW1dZOqbDTmhroXu2N1Cj00uAKKw7Vnfq)
+* Contact 🍭
+    * Facebook : [Pattaradanai Srichon](https://www.facebook.com/pattaradanai.srichon)
+    * Instagram : [first_ptnd](https://www.instagram.com/first_ptnd/)
+
 ###  Boat 🇹🇭
 * ชื่อ 🍻 : ติณณภพ เทียนบาง
 * วันเกิด 🍼 : 13/01/2004
@@ -62,3 +81,4 @@
 * Contact 📫
   * Facebook : [Jiraplus](https://web.facebook.com/jiraplus.chanpong/)
   * Instragram : [idontcareanyfxxkthing](https://www.instagram.com/idontcareanyfxxkingthing/)
+
