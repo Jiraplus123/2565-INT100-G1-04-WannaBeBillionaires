@@ -1,5 +1,13 @@
 
+<!-- https://gist.github.com/cuonggt/9b7d08a597b167299f0d วิธีการใช้ markdown syntax  -->
+<!-- https://gist.github.com/rxaviers/7360908 ชื่อ Emoji  -->
+# WannaBeBillionaires 🤑
 
+## FACTS ABOUT TEAM NAME 💰
+ *We thought* :
+> *Everyone wants to have money for happiness, and independence. Therefore, we need to be billionaires first. After that, we can do whatever we want with our money and without stress*.
+---------
+## FACTS ABOUT US ⚡
 
 <img src="https://cdn.discordapp.com/attachments/884812689845669898/1011287377039347862/profile.jpg" width="300" height="300" />
 
