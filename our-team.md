@@ -30,7 +30,6 @@
 * Contact 📫
   * Facebook : [isakok chengsamo](https://www.facebook.com/profile.php?id=100008276294150)
   * Instagram : [isakok_atp](https://www.instagram.com/isakok_atp/)
-=======
 
 <img src="https://cdn.discordapp.com/attachments/970310391328571443/1011303034191622265/IMG_0252.jpg" width=40% height=40% />
 
