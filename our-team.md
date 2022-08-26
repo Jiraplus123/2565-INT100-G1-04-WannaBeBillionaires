@@ -60,5 +60,5 @@
 * สเปคที่ชอบ 👩‍❤️‍👨 :  be kind with me , don't lie 
 * เพลงที่ชอบ 🎧 : [Can't help falling in love](https://www.youtube.com/watch?v=vGJTaP6anOU&ab_channel=ElvisPresleyVEVO)
 * Contact 📫
-        * Facebook : [Jiraplus](https://web.facebook.com/jiraplus.chanpong/)
-        * Instragram : [idontcareanyfxxkthing](https://www.instagram.com/idontcareanyfxxkingthing/)
+  * Facebook : [Jiraplus](https://web.facebook.com/jiraplus.chanpong/)
+  * Instragram : [idontcareanyfxxkthing](https://www.instagram.com/idontcareanyfxxkingthing/)
