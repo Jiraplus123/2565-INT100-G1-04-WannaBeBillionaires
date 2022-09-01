@@ -9,7 +9,7 @@
 ---------
 ## FACTS ABOUT US ⚡
 
-[Oct](IMAGE/oct.jpg)
+![Oct](IMAGE/oct.jpg)
 
 
 
