@@ -71,7 +71,7 @@
 
 
 
-![This is an image](https://github.com/Jiraplus123/2565-INT100-G1-04-WannaBeBillionaires/blob/First2/IMAGE/poyPic.jpg)
+![This is an image](https://github.com/Jiraplus123/2565-INT100-G1-04-WannaBeBillionaires/blob/First2/IMAGE/poyPic.jpg | width=45%)
 
 ### POY
 * ชื่อ 🌈 : นางสาวณัฐวรรณ คุ้มเผ่า
