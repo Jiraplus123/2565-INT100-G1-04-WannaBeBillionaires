@@ -50,7 +50,10 @@
     * Facebook : [Pattaradanai Srichon](https://www.facebook.com/pattaradanai.srichon)
     * Instagram : [first_ptnd](https://www.instagram.com/first_ptnd/)
 
-![Boat](https://media.discordapp.net/attachments/1000985661395976213/1011131244689506394/T15405.jpg?width=300&height=400)
+![Boat](IMAGE/BOAT.jpg)
+Interview by Plub
+>>>>
+
 ###  Boat 🇹🇭
 * ชื่อ 🍻 : ติณณภพ เทียนบาง
 * วันเกิด 🍼 : 13/01/2004
