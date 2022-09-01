@@ -123,7 +123,7 @@ Interview by First
   * Facebook : [Jiraplus](https://web.facebook.com/jiraplus.chanpong/)
   * Instragram : [idontcareanyfxxkthing](https://www.instagram.com/idontcareanyfxxkingthing/)
 
-<img src="https://cdn.discordapp.com/attachments/395212970998759434/1011291923551633428/171320.jpg" width="300" height="400" />
+![team](IMAGE/teampic.jpg)
 
  ### TEAM
 * ชื่อ👋:  ทัศน์พล เถื่อนชำนาญ
