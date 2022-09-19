@@ -4,7 +4,7 @@
 ## Onsite Image
 ![Onsite](../Design%20Thinking/images/JourneyMap-onsite.jpg)
 
-# Say-Do-Think-Feel
+# Say-Do-Think-Feel 🗣️
 ![thinkfeel](../Design%20Thinking/images/thinkfeel.jpeg)
 ### OBSERVED 👀
  * Say 💬
