@@ -30,7 +30,7 @@
 -------
 ## :smirk: Feedback :kissing_closed_eyes:
 
-![Onsite](../Design%20Thinking/images/JourneyMap2.jpg)
+![Onsite](./images/Journeymap2.jpg)
 * I like :yum:
 > _ชอบการเล่าเรื่อง_
 
