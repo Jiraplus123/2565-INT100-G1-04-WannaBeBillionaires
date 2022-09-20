@@ -1,17 +1,13 @@
 
-# WHAT , HOW and WHY 💭
+## 💭 WHAT , HOW and WHY 💭
+
 | What 💔 | How 😔 | Why 😭|
 | ------------- | ------------- | ------------- |
 | `User` อกหักเจ็บปวดรวดร้าว | กินชาบูแก้เซ็ง,ใช้เวลากับเพื่อน | เจอคนคุยเก่าเดินกับคนคุยใหม่ |
 | `User` เครียด | ดูบอลคลายเครียด | เศร้าใจทำให้ไม่มีแรงเรียนต่อ |
 
-# Journey Map
-![Journey Mao](../Design%20Thinking/images/JourneyMap.jpg)
-
-## Onsite Image
-![Onsite](../Design%20Thinking/images/JourneyMap-onsite.jpg)
-
-# Say-Do-Think-Feel 🗣️
+-------
+## Say-Do-Think-Feel 🗣️
 ![thinkfeel](../Design%20Thinking/images/thinkfeel.jpeg)
 ### OBSERVED 👀
  * Say 💬
@@ -23,17 +19,18 @@
  > `user` คงคิดว่าตอนนั้น คงหมดโอกาสที่จะได้เป็นเพื่อนกับคนคุยเก่า
  * Feel ❤️
  > `user` น่าจะรู้สึกเจ็บกับเรื่องนี้ช่วงนึง เเต่สักวันคงผ่านมันไปได้
+-------
+## Journey Map ☁️
 
+![Journey Mao](../Design%20Thinking/images/JourneyMap.jpg)
 
-## 🤯 Needs and Insights 👀
-
-* Needs - ความต้องการที่จะจัดการกับความรู้สึกเจ็บปวดของ `User` 😞
-
-* Insight - เเม้ปกติ `User` จะเป็นคนที่ร่าเริงเเละพูดเก่งเเต่เมื่อต้องรับมือกับความซึมเศร้าก็ยังเป็นอุปสรรค 😭 เเละ `User` เป็นคนที่คิดมาก 🧠
-
-## :smirk: I like I wish :kissing_closed_eyes:
-
+## Onsite Image ⛅
 ![Onsite](../Design%20Thinking/images/JourneyMap-onsite.jpg)
+
+-------
+## :smirk: Feedback :kissing_closed_eyes:
+
+![Onsite](./images/Journeymap2.jpg)
 * I like :yum:
 > _ชอบการเล่าเรื่อง_
 
@@ -45,8 +42,13 @@
 > _การพูดบางช่วงยังติดขัดอยู่_
 
 > _คนพูดไม่กล้าแสดงออก_
+-------
+## 🤯 Needs and Insights 👀
+Team
+* Needs - ความต้องการที่จะจัดการกับความรู้สึกเจ็บปวดของ `User` 😞
 
-
+* Insight - เเม้ปกติ `User` จะเป็นคนที่ร่าเริงเเละพูดเก่งเเต่เมื่อต้องรับมือกับความซึมเศร้าก็ยังเป็นอุปสรรค 😭 เเละ `User` เป็นคนที่คิดมาก 🧠
+-------
 ## ✨ Point Of View 
 
 >ได้สัมภาษณ์กับuserที่มีลักษณะ _สุขุม เป็นperfectionist_ เข้าสังคมและเข้ากับคนอื่นได้ง่าย 
@@ -57,6 +59,22 @@
 
 >ถ้าเราหาวิธีที่สามารถทำให้user _ทำให้ตัวเองไม่รู้สึกโดดเดี่ยวได้หรือได้รับคำแนะนำที่ดีและถูกต้องจากผู้เชี่ยวชาญ_ คงสามารถแก้ปัญหาของuserได้
 
+
+
+
+-------
+## :innocent: Member's Roles
+First
+> หลังจากสัมภาษณ์ user เป็นคนนำข้อมูลที่ได้มาเขียน Journey Map
+
+PLUB 💫
+> เล่าเรื่อง,ตกแต่งทั้งหมด, WHAT/HOW/WHY , Assign งานให้เพื่อนๆ , issue
+
+BOAT
+> นำข้อมูลจาก Interview มา identify เป็น say-do-think-feel
+
+Oct
+> นำข้อมูลfeedbackมาสรุปแล้วใส่ข้อมูลลงไป
 
 POY 
 > หาinsight คิดและเรียบเรียงPOV 
