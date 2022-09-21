@@ -78,3 +78,6 @@ Oct
 
 POY 
 > หาinsight คิดและเรียบเรียงPOV 
+
+TEAM
+> หาเเละเรียบเรียง Need เเละ insight
