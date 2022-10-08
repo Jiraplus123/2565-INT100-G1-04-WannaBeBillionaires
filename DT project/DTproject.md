@@ -18,7 +18,10 @@
 ### FEEL
 - Over-whelmed
 - Fear
+- Afraid
 - Excited
+- Confused
+- Disappointed
 -----
 # Journey Map
 ### ลำดับเหตุการณ์ ลุงไกด์ ประสบการณ์การจองวัคซีนผ่านเเอปรัฐบาล
