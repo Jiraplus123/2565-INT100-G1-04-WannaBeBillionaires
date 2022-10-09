@@ -29,3 +29,8 @@
 
 ### Journey Map
 ![JourneyMap/](./IMAGES/JourneyMap-DT2.jpg)
+
+--------
+
+# User persona
+![user_persona](./IMAGES/userpersona%20.jpg)
