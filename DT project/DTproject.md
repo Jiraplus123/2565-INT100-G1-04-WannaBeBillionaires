@@ -32,4 +32,4 @@
 
 --------
 # User persona
-![user persona](./IMAGES/userpersona%20.jpg)
+![user persona](./IMAGES/Userpersona2.jpg)
