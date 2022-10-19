@@ -53,7 +53,7 @@ _แล้วคุณย่าคิดยังไงกับการที�
 --------
 
 # User persona 📱
-![User persona](./IMAGES/Userpersona2.jpg)
+![User persona](./IMAGES/userpersona3.jpg)
 --------
 
 # Define ✨ 
