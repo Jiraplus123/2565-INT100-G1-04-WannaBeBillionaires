@@ -134,8 +134,6 @@ _แล้วคุณย่าคิดยังไงกับการที�
 
 
 
---------
-
 ## Members' Role ⚖️
 * Plub - ตกแต่ง,issue,,manage time, POV, Brainstorm
 * First - Say-do-think-feel, Journey map, Brainstorm
